@@ -7,3 +7,11 @@
 2. 공부 인증 방법
   - 매 주 일요일 자정까지 공부한 내용을 해당 repo에 commit 한다.
 
+
+
+Week1 강의 노트
+- [강의 노트] 쿠버네티스(Kubernetes)란 무엇인가? https://deeplog.tistory.com/14
+- [강의 노트] 쿠버네티스의 아키텍쳐와 컴포넌트 https://deeplog.tistory.com/15
+- MacOS에서 Docker Desktop이 잘 깔렸는지 확인해보는 법 https://deeplog.tistory.com/16
+- [강의 노트] Kubectl과 Minikube를 로컬 환경에 설치해 보자 (MacOS) https://deeplog.tistory.com/17
+- 터미널에서 alias 사용해서 kubectl 명령어 짧게 사용하는 법 https://deeplog.tistory.com/18
