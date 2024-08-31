@@ -1,0 +1,1 @@
+[ec2에 kube 설치](https://medium.com/google-cloud/how-to-install-minikube-in-google-cloud-vm-instance-b5ea57cb2204)
