@@ -11,5 +11,6 @@
 
 # 목차
 - [week1.md](week1.md)
+- [week2.md](/week2/daisy/week2.md)
 
 
